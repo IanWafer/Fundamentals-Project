@@ -16,7 +16,7 @@ The instructions issued can be found here- [link](https://github.com/ianmcloughl
 
 1. [Introduction](#introduction)
 
-2. [Initial Data Review](#initial review)
+2. [Initial Data Review](#initialreview)
 
 <a name="introduction"></a>
 ## 1. Introduction
